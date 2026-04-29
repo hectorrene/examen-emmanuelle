@@ -1,0 +1,3 @@
+# Muestra cómo agregar el tipo Posgrado en el futuro sin modificar el código existente. ¿Qué principio SOLID garantiza esto?
+
+- Para agregar el tipo Posgrado se tendría que crear un nuevo archivo para ese tipo de usuario la cual utilice la interfaz de usuario y agregar un if al user factory. El principio de SOLID que garantiza lo que se pide es el 'O' open / closed, el cual menciona que el código debe estar abierto a extensión pero no a modificaciones. 
